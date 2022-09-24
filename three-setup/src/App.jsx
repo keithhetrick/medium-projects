@@ -46,27 +46,6 @@ function App() {
     const stats = Stats()
     document.body.appendChild(stats.dom)
 
-    // Text Loading
-    // const loader = new THREE.FontLoader()
-
-    // loader.load("./fonts/Cascadia_Code_Regular.json", function (font) {
-    //   const geometry = new THREE.TextGeometry('Hi.\nHow are you?', {
-    //     font: font,
-    //     size: 6,
-    //     height: 2,
-    //   })
-    //   const textMesh = new THREE.Mesh(geometry, 
-    //     [new THREE.MeshPhongMaterial({ color: 0xad4000 }), // front
-    //     new THREE.MeshPhongMaterial({ color: 0x5c2301 }) // side
-    //   ] )
-
-    //   textMesh.castShadow = true
-    //   textMesh.position.y += 15
-    //   textMesh.position.z -= 40
-    //   textMesh.position.x -= -8
-    //   textMesh.position.y -= -0.50
-    // })
-
     // Animate
     const animate = () => {
       boxMesh.rotation.x += 0.01
