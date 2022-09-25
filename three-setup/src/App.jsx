@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div>
-      <canvas id='myThreeJsCanvas'>hi there</canvas>
+      <canvas id='myThreeJsCanvas'></canvas>
     </div>
   )
 }
