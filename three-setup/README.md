@@ -1,1 +1,7 @@
-First Three.js project, as well as first Vite.js project - where rendering a floating box is comparable to a "hello world" print in other programs
+# First Three.js & first Vite.js project - where rendering a floating box is comparable to a "hello world" print in other programs
+
+## Built with Vite.js, React.js, Three.js & Tailwind
+
+### Demo
+https://user-images.githubusercontent.com/104343338/192117959-f2406e87-3f43-49ac-bdce-23215f183df6.mov
+
